@@ -1,0 +1,176 @@
+@charset "utf-8";
+/* CSS Document */
+.box-post{
+	text-align:center;
+	padding:10px;	
+}
+.box-post h4{
+	color:#999;
+	font-style:oblique;	
+}
+.box-post h2{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+.box-post p{
+	text-align:justify;	
+	font-family:Verdana, Geneva, sans-serif;
+	border-radius:0 0 10px 10px;
+	/*box-shadow:0 4px 8px grey;*/
+	padding:10px
+}
+.box-post .img-post{
+	width:100%;
+	height:auto;
+	margin:15px 0 0 0;	
+	/*border-radius:5px 5px 0 0;*/
+	/*box-shadow:0 0px 8px grey;*/
+}
+.box-post a{
+	text-decoration:none;
+	font-style:italic;
+	color:grey;
+	float:right;
+	padding-top:5px;	
+}
+.box-post a:hover{
+	text-decoration:underline;
+	color:#33CCFF;	
+}
+.box-post2{
+	background-color:#FCFCFC;
+	box-shadow:0 4px 8px grey;
+	margin-bottom:15px;
+}
+.box-post2 h5{
+	padding:5px;
+	color:grey;	
+}
+.box-post2 a{
+	float:right	
+}
+.clerx{
+	clear:both;	
+}
+.don{
+	cursor:default;	
+}
+.deleg{
+	text-indent:60px;	
+}
+.grade{
+	display:inline-block;	
+}
+.grade .bullet{
+	width:45px;
+	height:45px;
+	background-color:#F90;
+	color:white;
+	border-radius:50%;
+	padding:13px 12px;	
+	position:absolute;
+}
+.img-team-r{
+	margin-top:50px;	
+}
+.post-achiev .grade h4{
+	color:#F90;
+	margin-left:60px;	
+}
+.img-album{
+	padding:5px 0;	
+}
+.post-achiev{
+	margin:10px 0;
+	padding:5px;	
+}
+.post-achiev h2{
+	text-align:center;	
+}
+.post-achiev p{
+	color:grey;	
+}
+.post-album{
+	text-align:center;	
+}
+.shadow-grup{
+	box-shadow:0 4px 8px grey;
+}
+.tab-about li{
+	list-style:none;
+	text-align:right;
+	font-size:25px;
+	line-height:2.5;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.tab-about a:hover{
+	color:#30F;
+	text-decoration:none;	
+}
+.foot{
+	background-color:#333;
+	height:auto;
+	padding-bottom:10px;	
+}
+.foot p{
+	color:#CCC;
+}
+.foot p a{
+	color:#CCC;
+	text-decoration:none;	
+}
+.foot p a:hover{
+	color:white;
+	text-decoration:blink;	
+}
+.box3{
+	text-align:left;
+	padding:30px 0;
+	color:white;	
+}
+
+.img-header{
+	width:100%;
+	height:400px;
+	background-image:url(../images/3.jpg);	
+	background-position:center;
+	background-size:cover;
+}
+.img-header h2{
+	color:#36F;
+	z-index:5;
+	text-align:center;
+	text-shadow:0 0 1px white;
+	font-family:"Comic Sans MS", cursive;	
+}
+.border-circle{
+	margin:50px auto;
+	width:150px;
+	height:150px;
+}
+.img-circle{
+	width:180px;
+	height:180px;
+	border-radius:50%;
+	border:10px solid grey;	
+	box-shadow:0 4px 8px black;
+}
+
+.navigasi{
+	padding:0 5px 0 0;	
+}
+.lambang{
+	padding:10px 0;
+	font-size:60px;
+	color:#09C;
+}
+.letak{
+	margin-bottom:50px;	
+}
+.box{
+	height:250px;
+	margin:5px;
+	padding:10px 5px;
+	box-shadow:0 4px 8px #666;
+	border-left:5px solid #09C;
+	text-align:center;	
+}

@@ -164,7 +164,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, nihil natus exp
             </div>
         </div>
     </div>
-    <!--end_footer-->
+    <!--end_footer--> ss
     
     <script src="js/bootstrap.js"></script>
 </body>
